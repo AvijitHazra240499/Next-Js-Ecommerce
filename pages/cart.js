@@ -1,5 +1,5 @@
-import Cartitem from "@/Components/Cartitem";
-import Wrapper from "@/Components/Wrapper";
+import Cartitem from "@/components/Cartitem";
+import Wrapper from "@/components/Wrapper";
 import Image from "next/image";
 import Link from "next/link";
 
