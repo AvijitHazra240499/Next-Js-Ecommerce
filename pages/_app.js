@@ -1,4 +1,6 @@
-import Footer from '@/components/Footer.jsx'
+// import Footer from '@/components/Footer.jsx'
+import Footer from '../components/Footer.jsx'
+
 import Header from '@/components/Header'
 import '@/styles/globals.css'
 import Head from 'next/head'
