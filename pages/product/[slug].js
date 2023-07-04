@@ -1,9 +1,11 @@
 
 import { IoMdHeartEmpty } from "react-icons/io";
 import React from "react";
+import Wrapper from "../../components/Wrapper";
 import ProductDetailsCarousel from "@/components/ProductDetailsCarousel";
 import RelatedProducts from "@/components/RelatedProducts";
-import Wrapper from "@/components/Wrapper";
+// import Wrapper from "@/components/Wrapper";
+
 const ProductDetails = () => {
   return (
     <div className="w-full md:py-20">
