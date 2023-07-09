@@ -1,11 +1,11 @@
 
 import { IoMdHeartEmpty } from "react-icons/io";
 import React from "react";
-import Wrapper from "../../components/Wrapper";
-import ProductDetailsCarousel from "@/components/ProductDetailsCarousel";
+import Wrapper from "../../pComponents/Wrapper";
+import ProductDetailsCarousel from "@/pComponents/ProductDetailsCarousel";
 
 
-import RelatedProducts from "@/components/RelatedProducts";
+import RelatedProducts from "@/pComponents/RelatedProducts";
 // import Wrapper from "@/components/Wrapper";
 
 const ProductDetails = () => {

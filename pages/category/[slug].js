@@ -1,5 +1,5 @@
-import ProductCard from "@/components/ProductCard";
-import Wrapper from "@/components/Wrapper";
+import ProductCard from "@/pComponents/ProductCard";
+import Wrapper from "@/pComponents/Wrapper";
 
 import React from "react";
 const Category = () => {
